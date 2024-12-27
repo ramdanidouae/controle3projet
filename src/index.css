@@ -1,0 +1,7 @@
+.listelement{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    gap: 3px; 
+
+}
